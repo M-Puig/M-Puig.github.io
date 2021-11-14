@@ -15,7 +15,7 @@ About this website
 Welcome to my website ! It is currently under construction but I plan to share my experiences, projects and more. 
 
 
-Rika is the best !!
+About me
 ======
-Oyasumi
+I'm a freshly graduated engineer, with a Master in Big data & High Performance computing from INP Toulouse, and a MSc. in Machine learning at Georgia Tech. I am strongly drawn towards research topics, and have had research experiences at important research institutions such as Météo France, ONERA - The French Aerospace Lab-, and Georgia Tech's DREAM robotics lab.
 
