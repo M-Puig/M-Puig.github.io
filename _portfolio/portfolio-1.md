@@ -1,6 +1,6 @@
 ---
 title: "Research at Météo France - 2019"
-excerpt: "2019 research internship<br/><img src='/images/Logo_Meteo_France.png' width="100"/>"
+excerpt: "2019 research internship<br/><img src='/images/meteofrance-logo.svg'>"
 collection: portfolio
 ---
 
