@@ -1,6 +1,6 @@
 ---
 title: "Research at ONERA - 2021"
-excerpt: "2019 research internship<br/><img src='/images/ONERA-logo.svg' width=100>"
+excerpt: "2019 research internship<br/><img src='/images/ONERA-logo.svg' width=200>"
 collection: portfolio
 ---
 
