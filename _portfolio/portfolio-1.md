@@ -1,8 +1,8 @@
 ---
 title: "Research at Météo France - 2019"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Logo_Meteo_France.png' width="200">"
+excerpt: "2019 research internship<br/><img src='/images/Logo_Meteo_France.png' width="100px">"
 collection: portfolio
 ---
 
 2019 research internship
-<embed src="/files/poster_meteo_france.pdf" width="800px" height="2100px" />
+<embed src="/files/poster_meteo_france.pdf" width="1000px" height="1400px" />
