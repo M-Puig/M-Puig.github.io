@@ -1,6 +1,6 @@
 ---
 title: "Seq2Seq Chatbot - 2021"
-excerpt: "<img src='/images/chatbot.svg' height=100>"
+excerpt: "<img src='/images/chatbot.svg' width="100px">"
 collection: portfolio
 ---
 
