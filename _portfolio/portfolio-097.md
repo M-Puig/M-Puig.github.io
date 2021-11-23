@@ -13,6 +13,8 @@ The dataset I used to train the network is the [Cornell Movie-Dialogs Corpus](ht
 
 The network contains and encoder and a decoder. The base element of both these parts is recurrent neural networks, here Gated Recurrent Units. For more details,  on seq2seq networks, using the basic method or upgrading it with the attention mecanism, you can check on [Lena Voita's website](https://lena-voita.github.io/nlp_course/seq2seq_and_attention).
 
-Here is an example of a conversation with the upgraded version of the network, using attention, and doing a greedy search to produce an output sentence.
+Here is an example of a conversation with the upgraded version of the network, using attention, and performing a greedy search to produce an output sentence.
 
 <img src='/images/skynet.png' height=1500>
+
+The result is quite surprising and although the bot can answer strangely sometimes, it stays largely coherent and is fun to chat with. It's interesting to note that every trained instance of the bot gives itself a different name and they are globally very different from each other, giving a feeling of personality to them. This particular instance was trained on my laptop with limited computational capabilities, and the loss didn't really converge at the end of the training; a longer training could yield an even more sophisticated chatbot.
