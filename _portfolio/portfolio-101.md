@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for cyclonic andprecipitating object segmentation - Météo France - 2019"
+title: "Deep Learning for cyclonic and precipitating object segmentation - Météo France - 2019"
 excerpt: "<img src='/images/meteofrance-logo.svg' width=100>"
 collection: portfolio
 ---
