@@ -22,7 +22,7 @@ Finally a kalman filter is used to update the positions of the lines with the ne
 
 A spline curve is the traced using the detected lines to obtain a path for the car. A line following algorithm was then implemented for the car to follow the curve, with appropriate speeds and angles.
 
-Sadly, this project was interrupted by the covid crisis before we could try it out around the lake. However, we had a test environment using AirSim, an open source vehicles simulator based on unreal engine 4. Here is a video of the car roaming on the virtual road.
+Sadly, this project was interrupted by the covid crisis before we could try it out around the lake. However, we had a test environment using AirSim, an open source vehicles simulator based on unreal engine 4. Here is a video of the car roaming by itself on the virtual road.
 
 <video width="640" height="360" controls>
   <source src="/images/portfolio-GTL/AirsimControlDemo.mp4" type="video/mp4">
